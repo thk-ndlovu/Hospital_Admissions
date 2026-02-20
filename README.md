@@ -28,6 +28,8 @@ The goal is to identify key factors affecting hospital efficiency and patient ou
 
 - Predictive Modelling (optional): Build a logistic regression or decision tree model to predict readmission risk.
 
+- Build structure of data
+
 ### Recommendations
 
 - Implement early discharge planning for long-stay cases.
