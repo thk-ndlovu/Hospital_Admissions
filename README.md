@@ -37,3 +37,9 @@ The goal is to identify key factors affecting hospital efficiency and patient ou
 - Monitor and manage blood sugar levels to reduce readmissions.
 
 - Use admission type data to optimize emergency department resources.
+
+  ## Patients and Missions
+
+Our hospital database tracks patient admissions and medical missions.  
+- **Patients**: name, age, condition, admission date  
+- **Missions**: location, date, purpose, assigned staff
